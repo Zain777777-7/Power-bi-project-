@@ -67,12 +67,6 @@ The dataset includes fields like:
 
 ---
 
-## 📸 Dashboard Preview
-
-
-
----
-
 
 ## 🤝 Feedback & Collaboration
 
